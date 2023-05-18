@@ -1,7 +1,7 @@
 Hi 👋 My name is Masato Tezuka
 ==============================
 
-Software engineer
+Web engineer
 -------------
 
 * 🌍  I live in Azumino City, Nagano, Japan
