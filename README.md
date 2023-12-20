@@ -8,10 +8,6 @@ Web engineer
 * ✉️  You can contact me at [tez.0731.mst@gmail.com](mailto:tez.0731.mst@gmail.com)
 * 🧠  I'm learning TypeScript, Node.js
 
-<a href="https://www.twitter.com/tezmasatoo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/tezmasatoo?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 <p align="left">
