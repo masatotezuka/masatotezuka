@@ -4,9 +4,10 @@ Hi 👋 My name is Masato Tezuka
 Web engineer
 -------------
 
-* 🌍  I live in Azumino City, Nagano, Japan
+* 🌍  I live in Tokyo, Japan
 * ✉️  You can contact me at [tez.0731.mst@gmail.com](mailto:tez.0731.mst@gmail.com)
-* 🧠  I'm learning TypeScript, Node.js
+* 🧠  I'm learning TypeScript, Node.js, Ruby, GraphQL
+
 
 ### Skills
 
